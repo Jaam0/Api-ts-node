@@ -6,6 +6,13 @@
 2. **Go to database directory from this project and run the script.sql**
 3. **node  dist/app.js**
 
+# Note
+
+You have to test this api with **PostMan** or other similar software
+
+**URL:**http://localhost:2000/api/users
+**Method:**Get
+
 # Techonologies used in this project
 
 1. **NodeJs**
