@@ -10,8 +10,7 @@
 
 You have to test this api with **PostMan** or other similar software
 
-**URL:**http://localhost:2000/api/users
-**Method:**Get
+- **URL:** http://localhost:2000/api/users
 
 # Techonologies used in this project
 
